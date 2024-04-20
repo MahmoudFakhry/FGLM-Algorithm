@@ -1,4 +1,4 @@
-# FGLM-Algorithm
+# FGLM Algorithm
 
 ## Summary
 
